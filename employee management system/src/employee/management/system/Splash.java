@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Splash extends JFrame {
-
     Splash() {
         String name;
 //        int width=1170,height=650,x,y;
